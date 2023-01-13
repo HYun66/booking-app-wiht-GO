@@ -1,1 +1,1 @@
-# booking-app-wiht-GO
+# booking-app-with-GO
